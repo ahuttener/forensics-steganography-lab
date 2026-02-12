@@ -37,7 +37,7 @@ Password Strength: Simple passwords (like 123456) offer zero protection against 
 
 Integrity: Digital forensics is about uncovering the truth hidden in plain sight.
 
-<img width="2810" height="1205" alt="Steghide Lab Screenshot" src="./Screenshot1.png" />
+<img width="2810" height="1205" alt="Image" src="https://github.com/user-attachments/assets/fba20b13-dc77-473f-88ca-ea425d6150ee" />
 
 
 ⚠️ Disclaimer
