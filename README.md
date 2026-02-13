@@ -37,7 +37,8 @@ Password Strength: Simple passwords (like 123456) offer zero protection against 
 
 Integrity: Digital forensics is about uncovering the truth hidden in plain sight.
 
-'''
+```
+
 ![Alt text](Screenshot1.png "Screenshot")
 
 ⚠️ Disclaimer
